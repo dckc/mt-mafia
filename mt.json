@@ -1,0 +1,10 @@
+{
+    "name": "mt-mafia",
+    "paths": ["."],
+    "entrypoint": "mafiabot",
+    "dependencies": {
+        "IRC": {
+            "url": "https://github.com/monte-language/mt-irc"
+        }
+    }
+}
